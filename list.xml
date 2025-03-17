@@ -1,0 +1,10 @@
+<packages>
+    <package>
+        <name>firefox</name>
+        <description>Standalone web browser from mozilla.org</description>
+    </package>
+    <package>
+        <name>gimp</name>
+        <description>GNU Image Manipulation Program</description>
+    </package>
+</packages>
